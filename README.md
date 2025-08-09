@@ -23,6 +23,10 @@ All CSVs and images are in their own folders so everything stays tidy.
 **Tools I Used**
 - Python (Pandas, Matplotlib, Seaborn, scikit-learn)
 - Google Colab
+**Note on CSV Files**
+GitHub’s file size limit is 25 MB, so three large CSVs are uploaded as zip files.
+Extract this zip to access all CSV files.
+
 
 Thanks for reviewing my work!
 
