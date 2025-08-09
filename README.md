@@ -17,6 +17,7 @@ The goal was simple: see if traders behave differently when the market is feelin
 - A simple regression didn’t predict PnL well — real trading performance is more complex than a few metrics.
 
 **How to View**
+
 -You can open the notebooks directly in Google Colab using the links I’ll provide in the submission email.  
 All CSVs and images are in their own folders so everything stays tidy.
 
@@ -26,6 +27,7 @@ All CSVs and images are in their own folders so everything stays tidy.
 
   
 **Note on CSV Files**
+
 -GitHub’s file size limit is 25 MB, so three large CSVs are uploaded as zip files.
 Extract this zip to access all CSV files.
 
